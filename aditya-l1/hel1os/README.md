@@ -28,7 +28,7 @@ Welcome to the hands-on material for the HEL1OS instrument onboard Aditya-L1. Op
 <!--Run the **[Demo Notebook](demo1.ipynb)** to see how to load data.
 Try the **[Analysis Tools](analysis_tools/)** folder for advanced processing.-->  
 
-**Scripts and Notebooks Prepared and Tested by:**
+Scripts and Notebooks Prepared and Tested by:
 **Manju Sudhakar**<sup>1</sup>, **Kiran Kumar Kalisetti**<sup>1,2</sup>
 
 <sup>1</sup> Space Astrnomy Group, U.R. Rao Satellite Centre (URSC), ISRO, Bangalore, India <br>
