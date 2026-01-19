@@ -6,7 +6,11 @@ You can also run this notebook with Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ISRO-ESA-Heliophysics-Workshop/hands-on-materials/blob/main/solar-orbiter/spice/sospice-demo.ipynb)
 
 and you will need to include this at the start of the Google Colab notebook:
-```!pip -q install -r https://raw.githubusercontent.com/ISRO-ESA-Heliophysics-Workshop/hands-on-materials/refs/heads/main/solar-orbiter/spice/requirements.txt```
+
+
+```
+!pip -q install -r https://raw.githubusercontent.com/ISRO-ESA-Heliophysics-Workshop/hands-on-materials/refs/heads/main/solar-orbiter/spice/requirements.txt
+```
 
 
 ## Or locally on your machine
